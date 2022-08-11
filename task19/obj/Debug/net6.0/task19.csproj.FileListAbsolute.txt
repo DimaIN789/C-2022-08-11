@@ -1,0 +1,15 @@
+E:\IT\GIT\C#\2826\seminar3\task19\bin\Debug\net6.0\task19.exe
+E:\IT\GIT\C#\2826\seminar3\task19\bin\Debug\net6.0\task19.deps.json
+E:\IT\GIT\C#\2826\seminar3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+E:\IT\GIT\C#\2826\seminar3\task19\bin\Debug\net6.0\task19.dll
+E:\IT\GIT\C#\2826\seminar3\task19\bin\Debug\net6.0\task19.pdb
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.dll
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\refint\task19.dll
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.pdb
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+E:\IT\GIT\C#\2826\seminar3\task19\obj\Debug\net6.0\ref\task19.dll
